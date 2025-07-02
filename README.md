@@ -35,7 +35,6 @@ A base foi obtida no [Kaggle](https://www.kaggle.com/) com estatísticas detalha
 
 - Power BI Desktop
 - DAX
-- Canva (para visual final)
 
 ## 📷 Visual do Dashboard
 
@@ -44,4 +43,4 @@ A base foi obtida no [Kaggle](https://www.kaggle.com/) com estatísticas detalha
 ## 🚀 Autor
 
 **Renan Gonzalez**  
-[LinkedIn](https://www.linkedin.com/in/renan-gonzalez333) • renan.gonzalez@example.com
+[LinkedIn](https://www.linkedin.com/in/renan-gonzalez333)
