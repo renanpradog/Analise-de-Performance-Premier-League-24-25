@@ -38,7 +38,7 @@ A base foi obtida no [Kaggle](https://www.kaggle.com/) com estatísticas detalha
 
 ## 📷 Visual do Dashboard
 
-![Dashboard](./imagens/dashboard.png)
+![Dashboard](./Dashboard.pdf)
 
 ## 🚀 Autor
 
